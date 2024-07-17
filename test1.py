@@ -1,27 +1,10 @@
-import numpy as np
+x = 'najnowszy'
+y='main'
 
+z = 'many tutaj zmień'
 
+a = 'tutaj też coś zmień'
 
-#zamieniona linijka kodu
-print('tą też mieniam')
+b =' to zostaw'
 
-
-
-
-#to trzeba zostawic
-
-
-
-z = 'test_15.50'
-
-#to trzeba zostawic
-
-
-x = 'ZMIENAIM TĄ LINIĘ'
-
-#to trzeba zostawic
-
-
-
-
-y='truten to drań443'
+c ='tutaj wyjeb spacje'
