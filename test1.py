@@ -1,18 +1,31 @@
 import numpy as np
-import pandas as pd - to wyjeb many
+import matplotlib.pyplot as plt
 
 
 a = 'test1'
+a = 'test1'
+d ='truten1'
+a = 'test1'
 
-b = 'test2'
+print(y)
 
 c = 'test3 zmień to'
 
-d =' wyjeb to'
+d ='truten1'
+d =' wyjeb tsdftggdfjifgjio'
+d =' wyjeb togfdfgdgfddgdfg'
+gfgfg = 'pousuwaj tutaj spacjefdfsdfd'
+gfgfg = 'pousuwaj tutaj spacjefdfsdfd'
+gfgfg = 'pousuwaj tutaj spacjefdfsdfd'
+
+y = 'many to dran'
+
+print(y)
 
 
-e = 'pousuwaj tutaj spacje'
+print('fdsfs')
+dfjnmfd = gdsnikg
 
-f =' to zostaw'
+x = 5-6
 
-print(x to wyjeb)
+print(x)
