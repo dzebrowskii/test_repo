@@ -1,27 +1,18 @@
 import numpy as np
+import pandas as pd - to wyjeb many
 
 
+a = 'test1'
 
-#zamieniona linijka kodu
-print('tą też mieniam')
+b = 'test2'
 
+c = 'test3 zmień to'
 
-
-
-#to trzeba zostawic
-
+d =' wyjeb to'
 
 
-z = 'test_15.50'
+e = 'pousuwaj tutaj spacje'
 
-#to trzeba zostawic
+f =' to zostaw'
 
-
-x = 'ZMIENAIM TĄ LINIĘ'
-
-#to trzeba zostawic
-
-
-
-
-y='truten to drań443'
+print(x to wyjeb)
