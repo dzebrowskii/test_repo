@@ -12,7 +12,7 @@ print('many zmień tą linijke v')
 
 #to trzeba usunac
 
-
+z = 'test_15.50'
 
 #to trzeba zostawic
 
@@ -22,3 +22,6 @@ x = 'many zmien tą linijke też'
 #to trzeba zostawic
 
 print(x)
+
+
+y='many to dran123'
